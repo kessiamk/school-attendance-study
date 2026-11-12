@@ -60,7 +60,7 @@ The data came from a school, with permission. Students are numbers coded by
 the school, with no names. Please do not try to identify any student.
  
 ## Author and acknowledgements
-kessiamk. Guidance from Mrs. Saranya (CS teacher). AI tools (Claude)
+kessiamk. Guidance from Mrs. Archana Jinesh (CS teacher). AI tools (Claude)
 helped write and check the code and drafted the first version of the write-up.
 I ran the code and rewrote the text myself.
  
