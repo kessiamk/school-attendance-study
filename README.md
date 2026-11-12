@@ -51,7 +51,10 @@ H holiday), rain_mm (rainfall that day), listed_holiday (True on listed holidays
 - Early warning: first 22 working days; compared with leave-one-out logistic
   regression and a baseline.
 - Rainy day = 2.5 mm or more (IMD definition).
- 
+
+## Limits
+One school, one year, two classes. The register shows only present or absent, not the reason. Patterns here are associations, not causes.
+
 ## Privacy
 The data came from a school, with permission. Students are numbers coded by
 the school, with no names. Please do not try to identify any student.
